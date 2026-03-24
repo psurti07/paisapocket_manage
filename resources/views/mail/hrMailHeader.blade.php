@@ -587,9 +587,9 @@
                                                                                                 +91-94292-14352
                                                                                                 </a>
                                                                                                 | Email:
-                                                                                                <a href="mailto:info@paisapocket.com"
+                                                                                                <a href="mailto:paisapocket.com@gmail.com"
                                                                                                     style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;">
-                                                                                                info@paisapocket.com
+                                                                                                paisapocket.com@gmail.com
                                                                                                 </a>
                                                                                             </p>
                                                                                         </td>

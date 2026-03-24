@@ -966,7 +966,7 @@ use Modules\Auth\App\Models\Administrations;
     if(!function_exists('sendBrevoHtmlMail2')){
         function sendBrevoHtmlMail2($maildata, $subject = '', $message = '', $sendmail = '', $attachments = []){
             $data['sender']['name'] = env('APP_NAME');
-            $data["sender"]["email"] = 'info@paisapocket.com';
+            $data["sender"]["email"] = 'paisapocket.com@gmail.com';
     
             $user_res["name"] = $maildata["fullname"];
             $user_res["email"] = $maildata["email"];
@@ -1022,7 +1022,7 @@ use Modules\Auth\App\Models\Administrations;
     if(!function_exists('sendBrevoHtmlMail')){
         function sendBrevoHtmlMail($maildata, $subject = '', $message = '', $sendmail = '', $attachmentPath = ''){
             $data['sender']['name'] = env('APP_NAME');
-            $data["sender"]["email"] = 'info@paisapocket.com';
+            $data["sender"]["email"] = 'paisapocket.com@gmail.com';
     
             $user_res["name"] = $maildata["fullname"];
             $user_res["email"] = $maildata["email"];
